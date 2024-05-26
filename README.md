@@ -1,2 +1,2 @@
 # presentacion-Accenture
-<a href="https://www.canva.com/design/DAGGN6EK2kc/x3jQSvKGMIL7Gjhb2FKAag/edit?utm_content=DAGGN6EK2kc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presentación</a>
+<a href="<a href="https://www.canva.com/design/DAGGN6EK2kc/HYAimlMYs5RSJxU7h1lwqw/view?utm_content=DAGGN6EK2kc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor" rel="nofollow">Presentacion de proyecto dual</a>">Presentación</a>
